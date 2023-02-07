@@ -1,3 +1,9 @@
+alert("Make your list");
+
+
+
+
+
 $(function() {
 	var callback = function(event) {
 		event.preventDefault();
